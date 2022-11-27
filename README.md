@@ -1,9 +1,7 @@
-<p align="center"> ![logo-branco](https://user-images.githubusercontent.com/112736198/204162129-9f3d3651-b103-413d-b452-4b47d605c368.png) </p>
+<p align="center"> <img src="https://pasteboard.co/ZBi4AjuAyTat.png" alt="Logo Barbearia Alura"> </p>
 
 <hr>
 
-<p align="center"> ![logo-branco](https://user-images.githubusercontent.com/112736198/204162129-9f3d3651-b103-413d-b452-4b47d605c368.png)
- </p>
 <p align="center">Um site para divulgação de uma barbearia fictícia com o nome de "Barbearia Alura".</p>
 <p align="center">Site responsivo para telas mobile, navegação entre páginas, apliquei algumas pseudo classes no CSS para a página estática ter uma interface um pouco mais "amigável".</p>
 
