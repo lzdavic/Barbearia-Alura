@@ -3,14 +3,14 @@
 
 ## Descrição do projeto e funcionalidades
 
-<p align="center">Meu primeiro projeto HTML e CSS, um site para divulgação de uma barbearia fictícia com o nome de "Barbearia Alura", com página de inicial, produtos e contato.</p>
+<p>Meu primeiro projeto HTML e CSS, um site para divulgação de uma barbearia fictícia com o nome de "Barbearia Alura", com página de inicial, produtos e contato.</p>
 
-<p align="center">Site com responsividade para telas mobile, navegação entre páginas pelo cabeçalho, utilização de pseudo-classes do CSS para interações simples do site com o ponteiro do mouse.</p>
+<p>Site com responsividade para telas mobile, navegação entre páginas pelo cabeçalho, utilização de pseudo-classes do CSS para interações simples do site com o ponteiro do mouse.</p>
 
 <hr>
 
 ## Deploy
-<p align="center">[Clique aqui](https://barbearia-alura-khaki.vercel.app) para acessar o site</p>
+[Clique aqui](https://barbearia-alura-khaki.vercel.app) para acessar o site.
 
 <hr>
 
